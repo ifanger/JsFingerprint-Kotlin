@@ -1,1 +1,1 @@
-include ':app', ':fingerprintmanager', ':fpmanager'
+include ':fpmanager'
